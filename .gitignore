@@ -21,7 +21,3 @@ Thumbs.db
 *.tmp
 *.temp
 *~
-
-# Dependencies if you add any in the future
-node_modules/
-vendor/
