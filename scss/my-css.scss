@@ -1,0 +1,32 @@
+.theme-main-menu.sticky-menu.fixed {
+  font-size: 14px !important;
+  background-color: #f8f9fa !important;
+}
+
+.theme-main-menu.sticky-menu {
+  .navbar {
+    .navbar-nav {
+      .nav-link {
+        color: rgba(0, 0, 0, 0.8);
+
+
+      }
+    }
+  }
+
+}
+
+body > div.main-page-wrapper > header{
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.dropdown-toggle::after{
+  margin-right: 0.255rem !important;
+}
+
+body > div.main-page-wrapper > header > div > div > div.right-widget.d-flex.align-items-center.ms-auto.ms-lg-0.order-lg-3 > a{
+  font-size: 16px;
+  line-height: 36px;
+  padding: 0.1rem 1rem;
+}
